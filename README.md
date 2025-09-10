@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### 3. Run the Bot
 
 ```bash
-python simple.py
+python business_ivr_system.py
 ```
 
 The bot will start on `http://localhost:5000`
